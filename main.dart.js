@@ -945,7 +945,7 @@ o.r=p/6
 o.dx=q.f.a/2
 q.z=o
 q.Q=L.qf(q,"0",50,60,4294638330)
-q.ch=L.qf(q,"Tap to Play",40,q.f.b-50,4294638330)
+
 k=H.c([],k)
 o=new E.nq(q,q,k)
 p=q.f
